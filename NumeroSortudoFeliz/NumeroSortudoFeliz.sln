@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeroSortudoFelizTest", "NumeroSortudoFelizTest\NumeroSortudoFelizTest.csproj", "{A8009A1E-C8DD-4A05-8ED5-1FF03A20973F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortudoFeliz", "SortudoFeliz\SortudoFeliz.csproj", "{BF53B9CC-ED71-42EE-831A-BA87B2424265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8009A1E-C8DD-4A05-8ED5-1FF03A20973F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8009A1E-C8DD-4A05-8ED5-1FF03A20973F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8009A1E-C8DD-4A05-8ED5-1FF03A20973F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8009A1E-C8DD-4A05-8ED5-1FF03A20973F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF53B9CC-ED71-42EE-831A-BA87B2424265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF53B9CC-ED71-42EE-831A-BA87B2424265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF53B9CC-ED71-42EE-831A-BA87B2424265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF53B9CC-ED71-42EE-831A-BA87B2424265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

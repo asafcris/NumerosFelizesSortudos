@@ -1,0 +1,5 @@
+c:\users\asafc\documents\visual studio 2015\Projects\NumeroSortudoFeliz\SortudoFeliz\bin\Debug\SortudoFeliz.dll
+c:\users\asafc\documents\visual studio 2015\Projects\NumeroSortudoFeliz\SortudoFeliz\bin\Debug\SortudoFeliz.pdb
+c:\users\asafc\documents\visual studio 2015\Projects\NumeroSortudoFeliz\SortudoFeliz\obj\Debug\SortudoFeliz.dll
+c:\users\asafc\documents\visual studio 2015\Projects\NumeroSortudoFeliz\SortudoFeliz\obj\Debug\SortudoFeliz.pdb
+C:\Users\asafc\Documents\Visual Studio 2015\Projects\NumeroSortudoFeliz\SortudoFeliz\obj\Debug\SortudoFeliz.csprojResolveAssemblyReference.cache

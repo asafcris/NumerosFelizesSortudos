@@ -1,0 +1,8 @@
+c:\users\asafc\documents\visual studio 2015\Projects\NumeroSortudoFeliz\NumeroSortudoFelizTest\bin\Debug\NumeroSortudoFelizTest.dll
+c:\users\asafc\documents\visual studio 2015\Projects\NumeroSortudoFeliz\NumeroSortudoFelizTest\bin\Debug\NumeroSortudoFelizTest.pdb
+c:\users\asafc\documents\visual studio 2015\Projects\NumeroSortudoFeliz\NumeroSortudoFelizTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\asafc\documents\visual studio 2015\Projects\NumeroSortudoFeliz\NumeroSortudoFelizTest\bin\Debug\SortudoFeliz.dll
+c:\users\asafc\documents\visual studio 2015\Projects\NumeroSortudoFeliz\NumeroSortudoFelizTest\bin\Debug\SortudoFeliz.pdb
+c:\users\asafc\documents\visual studio 2015\Projects\NumeroSortudoFeliz\NumeroSortudoFelizTest\obj\Debug\NumeroSortudoFelizTest.csprojResolveAssemblyReference.cache
+c:\users\asafc\documents\visual studio 2015\Projects\NumeroSortudoFeliz\NumeroSortudoFelizTest\obj\Debug\NumeroSortudoFelizTest.dll
+c:\users\asafc\documents\visual studio 2015\Projects\NumeroSortudoFeliz\NumeroSortudoFelizTest\obj\Debug\NumeroSortudoFelizTest.pdb
